@@ -1,0 +1,1 @@
+console.log("Portfólio carregado! Pronto para a ação.");
